@@ -1,0 +1,24 @@
+{
+  "name": "fifth-meeting",
+  "version": "1.0.0",
+  "description": "SSR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ameliarahman/fifth-meeting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ameliarahman/fifth-meeting/issues"
+  },
+  "homepage": "https://github.com/ameliarahman/fifth-meeting#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
